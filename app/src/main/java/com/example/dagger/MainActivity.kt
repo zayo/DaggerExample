@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.dagger.core.AppObject
 import com.example.dagger.dagger_lib.DaggerLibObject
-import com.example.dagger.dagger_lib.LibObject
+import com.example.dagger.lib.LibObject
 import kotlinx.android.synthetic.main.activity_main.*
 import javax.inject.Inject
 

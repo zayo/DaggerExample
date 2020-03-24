@@ -1,8 +1,6 @@
 package com.example.dagger.lib
 
 import com.example.dagger.core.CoreProvisions
-import com.example.dagger.dagger_lib.LibObject
-import com.example.dagger.dagger_lib.LibObjectInitializer
 
 object Lib {
 

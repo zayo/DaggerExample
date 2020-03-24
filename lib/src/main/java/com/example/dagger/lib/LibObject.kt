@@ -1,4 +1,4 @@
-package com.example.dagger.dagger_lib
+package com.example.dagger.lib
 
 import com.example.dagger.core.AppObject
 
