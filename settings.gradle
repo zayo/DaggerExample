@@ -1,0 +1,5 @@
+include ':dagger-lib'
+include ':lib'
+include ':core'
+include ':app'
+rootProject.name='DaggerUnitTestExample'
